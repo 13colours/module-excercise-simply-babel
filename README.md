@@ -1,3 +1,3 @@
 # NodeJS module with Babel
 
-This is an test to build nodejs module using babel
+This is an excercise to build nodejs module using babel only
