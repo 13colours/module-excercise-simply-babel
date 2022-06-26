@@ -1,6 +1,6 @@
 {
   "name": "module-excercise-simply-babel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs module using babel",
   "main": "lib/index.js",
   "scripts": {
