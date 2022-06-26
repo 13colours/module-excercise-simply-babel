@@ -21,6 +21,6 @@
     "@babel/preset-env": "^7.18.2"
   },
   "files": [
-    "dist"
+    "lib"
   ]
 }
