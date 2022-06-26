@@ -1,0 +1,22 @@
+{
+  "name": "@13colours/simply-babel",
+  "version": "1.0.0",
+  "description": "nodejs module using babel",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "babel"
+  ],
+  "author": "Prabhat <tasker.prabhat@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
+    "@babel/node": "^7.18.5",
+    "@babel/preset-env": "^7.18.2"
+  }
+}
