@@ -1,5 +1,5 @@
 {
-  "name": "@13colours/simply-babel",
+  "name": "module-excercise-simply-babel",
   "version": "1.0.0",
   "description": "nodejs module using babel",
   "main": "lib/index.js",
